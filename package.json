@@ -1,5 +1,5 @@
 {
-  "name": "quote-api",
+  "name": "quote-api's",
   "version": "0.14.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xydlan/quote-api.git"
+    "url": "git+https://github.com/Xydlan/quote-api's.git"
   },
   "author": "LyoSU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Xydlan/quote-api/issues"
+    "url": "https://github.com/Xydlan/quote-api's/issues"
   },
-  "homepage": "https://github.com/Xydlan/quote-api#readme",
+  "homepage": "https://github.com/Xydlan/quote-api's#readme",
   "dependencies": {
     "canvas": "^2.8.0",
     "dotenv": "^7.0.0",
